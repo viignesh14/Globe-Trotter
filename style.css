@@ -148,6 +148,10 @@ text-decoration: none;
 }
 
 @media (max-width:550px){
+
+    .home .content{
+        padding-top: 100px;
+    }
     .home .content h5{
         font-size: 25px;
     }
@@ -190,7 +194,7 @@ text-decoration: none;
 }
 
 .book .row{
-    margin-top: 30px;
+    margin-top: 15px;
     
 }
 .book form input{
@@ -245,7 +249,7 @@ text-decoration: none;
 }
 
 .book .container .card {
-    margin-left: 40px;
+    margin-left: 30px;
 }
 }
 
