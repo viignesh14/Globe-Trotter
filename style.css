@@ -147,11 +147,11 @@ text-decoration: none;
     }
 }
 
-@media (max-width:550px){
+@media (max-width:426px){
 
     .home .content h5{
         font-size: 25px;
-        margin-top: 80px;
+        margin-top: 50px;
     }
 
     .home .content h1{
