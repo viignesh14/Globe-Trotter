@@ -148,11 +148,10 @@ text-decoration: none;
 }
 
 @media (max-width:550px){
-.home{
-    padding-top: 50px;
-}
+
     .home .content h5{
         font-size: 25px;
+        padding-top: 80px;
     }
 
     .home .content h1{
