@@ -150,7 +150,7 @@ text-decoration: none;
 @media (max-width:550px){
 
     .home .content{
-        padding-top: 100px;
+        padding-top: 250px;
     }
     .home .content h5{
         font-size: 25px;
